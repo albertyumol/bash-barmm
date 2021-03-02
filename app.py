@@ -428,6 +428,8 @@ elif add_selectbox == 'References':
     http://www.oecd.org/corruption/integrity-forum/academic-papers/Fountoukidis-Dafli-graph-theory.pdf", unsafe_allow_html=True)
     st.markdown("[9] Social network analysis of project procurement in Iranian construction mega projects: \
     https://link.springer.com/article/10.1007/s42107-021-00348-1", unsafe_allow_html=True)
+    st.markdown("[10] PHILIPPINES MINDANAO JOBS REPORT, A STRATEGY OF MINDANAO REGIONAL DEVELOPMENT: \
+    https://drive.google.com/drive/folders/1NF7QHZkMIHsFVo-EKlX-ZT5ZimrrMPrJ", unsafe_allow_html=True)
 
 else:
     st.subheader('Author')
